@@ -83,6 +83,7 @@ button:active {
     margin: 35px 0 30px 0;
 }
 
+/* 
 .output .previous {
     color: rgb(255, 255, 255, .7);
     font-size: 20px;
@@ -93,8 +94,13 @@ button:active {
     color: #fff;
     font-size: 25px;
     margin: 5px 0;
-}
+} */
 
+.output {
+    color: rgb(255, 255, 255, .7);
+    font-size: 20px;
+    margin-top: 10px;
+}
 
 footer {
     position: relative;
